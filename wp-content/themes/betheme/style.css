@@ -1,0 +1,32 @@
+/*
+Theme Name: Betheme
+Author: Muffin group
+Description: The biggest WordPress Theme ever
+Theme URI: http://themes.muffingroup.com/betheme
+Author URI: http://muffingroup.com
+License: Themeforest Split Licence
+License URI: -
+Version: 17.8.5
+
+All css files are placed in /css/ folder
+*/
+.home__circle--image img{
+	border-radius: 50%;
+}
+.home__content--transparent-box div{
+	background-color: transparent;
+}
+.home--rounded-button{
+	border-radius: 16px !important;
+}
+
+.title{
+	color: #efefef !important;
+}
+
+a.button_theme, a.tp-button.button_theme, button, input[type="submit"], input[type="reset"], input[type="button"] {
+    color: #fff !important;
+}
+.wpcf7-form-control wpcf7-submit{
+	color: #fff !important;
+}
